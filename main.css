@@ -185,7 +185,7 @@ h1{
     color:	#FF0000;
  
 } 
-.icons a i.fa-twitter
+.icons a i.fa-telegram
 {
     color: #00acee;
  
@@ -214,7 +214,7 @@ h1{
     background-color:	#FF0000;
     color: white;
 }
-.twitter
+.telegram
 {
     background-color: #00acee;
     color: white;
@@ -257,6 +257,21 @@ strong{
   font-size: 1.8rem;
   font-weight: 600;
 }
+
+
+
+#carouselimage{
+width: auto;
+object-fit: cover;
+border: #cfd1d4;
+
+
+}
+
+
+
+
+
 /* pricing */
 #checked{
   color: green;
